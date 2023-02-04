@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    color: cornflowerblue;
+    margin: 0;
+    padding:0;
+    background-image: url(https://th.bing.com/th/id/R.db5503dd0d88d40a37ae0694a13b3af2?rik=JyXiciyA24dTlQ&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f03%2f29%2f487017-sky-Milky_Way.jpg&ehk=bVYshxxZs4cGVoTyyAR3%2f1kTS5Bx1VCARVXDf4nEPk8%3d&risl=1&pid=ImgRaw&r=0);
+}
+
+h1 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+p {
+    margin-top: -15px;
+}
+
+a {
+    display: inline-flex;
+    width: 200px;
+    line-height: 2em ;
+    color: white;
+    text-decoration: none;
+    background-color: aqua;
+    border: 1px solid ;
+    border-color: deepskyblue;
+    border-radius: 30px;
+
+
+}
+
+li {
+    list-style: none;
+    margin-top: 5px;
+}
