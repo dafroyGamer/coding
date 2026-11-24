@@ -1,4 +1,4 @@
-# my coding journoy from zero 🐍 (python)
+# my coding journoy from zero 🐍
 
 # I am learning python as my first programming language (starting from scratch using **Think python: think python how to think like a computer scientist (3rd edition)**
 
