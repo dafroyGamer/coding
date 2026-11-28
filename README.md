@@ -28,4 +28,4 @@
 
 ## 📝 Learning Log :
 * **24 november, 2026:** Read Chapter 1 up to **Values and Types**. Practiced checking types with `type()` and converting between `int`, `float`, and `str`.
-* **28 november, 2026:** Read Chapter 1 un to **Glossary**, Practiced checking Formal language are a language that use for specific thing made by a person, always remember that natural and formal language are different while may they have some exact common but they are different.
+* **28 november, 2026:** Read Chapter 1 up to **Glossary**, Practiced checking Formal language are a language that use for specific thing made by a person, always remember that natural and formal language are different while may they have some exact common but they are different.
