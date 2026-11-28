@@ -3,7 +3,7 @@
 # I am learning python as my first programming language (starting from scratch using **Think python: think python how to think like a computer scientist (3rd edition)**
 
 ## Progress Tracker 📚 ('Think python, 3rd edition')
-- [ ] **Chapter 1:** Programming as a Way of Thinking *(in progress - completed values and types)
+- [ ] **Chapter 1:** Programming as a Way of Thinking *(in progress - completed Glossary)
 - [ ] **Chapter 2:** Variables and Statements *
 - [ ] **Chapter 3:** Functions *
 - [ ] **Chapter 4:** Functions and Interfaces *
@@ -28,3 +28,4 @@
 
 ## 📝 Learning Log :
 * **24 november, 2026:** Read Chapter 1 up to **Values and Types**. Practiced checking types with `type()` and converting between `int`, `float`, and `str`.
+* **28 november, 2026:** Read Chapter 1 un to **Glossary**, Practiced checking Formal language are a language that use for specific thing made by a person, always remember that natural and formal language are different while may they have some exact common but they are different.
